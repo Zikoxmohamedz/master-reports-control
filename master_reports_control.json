@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "message_ar": "تم إيقاف البرنامج من الإدارة.",
   "message_en": "The program has been disabled by admin."
 }
